@@ -1,0 +1,9 @@
+.girl{
+    border-right: 4px solid rgb(22, 182, 245);
+}
+.boy{
+    border-right: 4px solid rgb(243, 170, 115);
+}
+.other{
+    border-right: 4px solid rgb(252, 93, 132);
+}
